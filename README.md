@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://websdk--wknd--hlxsites.hlx.page/
-- Live: https://websdk--wknd--hlxsites.hlx.live/
+- Preview: https://websdk--wknd--meryllblanchet.hlx.page/
+- Live: https://websdk--wknd--meryllblanchet.hlx.live/
 
 ## Installation
 
